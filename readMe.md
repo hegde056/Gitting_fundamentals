@@ -10,7 +10,7 @@ Helpful commands :
 * git config --global user.email "abc@xyz.com"
 
 
-**create new folder**
+**create new folder and set up git for new folder**
 
 
 * git init 
@@ -24,12 +24,12 @@ Helpful commands :
 * git add .gitignore
 * git commit  -m "Commit message"		
 
-####First time generating ssh keys and adding to GitHub
+#### First time generating ssh keys and adding to GitHub
 * ssh-keygen -t rsa -b 4096
 * eval "$(ssh-agaent -s)"
 * ssh-add /c/Users/Mr.Bean/.ssh/id_rsa
 * clip < /c/Users/Mr.Bean/.ssh/id_rsa.pub
-####in Github go to profile settings > SSH keys > add new > give name and paste the key 
+#### In Github go to profile settings > SSH keys > add new > give name and paste the key 
 
 
 * git remote add origin git@github.com:hegde056/Gitting_fundamentals.git
