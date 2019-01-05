@@ -1,6 +1,6 @@
 # Learning Git Basics
 
-#### **hegde056**
+ ***hegde056***
 
 Hello-World !!!
 
@@ -9,7 +9,9 @@ Helpful commands :
 git config --global user.name "Mr.Bean"
 git config --global user.email "abc@xyz.com"
 
+
 **create new folder**
+
 
 git init 
 touch readMe.md				--> creates readMe file
