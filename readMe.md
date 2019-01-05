@@ -1,6 +1,6 @@
 # Learning Git Basics
 
-#### **hegde056**
+ ***hegde056***
 
 Hello-World !!!
 
@@ -9,7 +9,7 @@ Helpful commands :
 git config --global user.name "Mr.Bean"
 git config --global user.email "abc@xyz.com"
 
-*create new folder*
+***create new folder***
 
 git init 
 touch readMe.md				--> creates readMe file
@@ -33,7 +33,7 @@ clip < /c/Users/Mr.Bean/.ssh/id_rsa.pub
 git remote add origin git@github.com:hegde056/Gitting_fundamentals.git
 git push -u origin master
 
-git clone git@github.com:hegde056/Gitting_fundamentals.git CustomizedFolderName    --> CustomizedFolderName if need to save with different folder name
+git clone git@github.com:hegde056/Gitting_fundamentals.git CustomizedFolderName    --> CustomizedFolderName if need to clone with different folder name
 
 git pull 
 git push 
